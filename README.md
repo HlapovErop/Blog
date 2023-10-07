@@ -32,3 +32,7 @@
 - nodeJS
 
 ## 80%+ покрытие тестами
+
+## [Интеграция БД](https://drive.google.com/file/d/1nJU1vgn0vZZQ81PZJCkCWrfkLFIHoSDP/view?usp=sharing)
+
+## [Деплой](http://192.168.200.24:4444/)
